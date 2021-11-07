@@ -1,0 +1,64 @@
+.post-container {
+    display: block;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.post-content {
+    border-right: 5px double black;
+    border-left: 5px double black;
+    text-align: center;
+    margin: 2rem 2rem 0 2rem;
+    padding: 2rem 0;
+}
+
+.title-content{
+    padding: 2rem;
+    margin: 0 2rem 0.8rem 2rem;
+    border-bottom: 1.5px solid black;
+    border-top: 1.5px solid black;
+
+    img {
+        width: 100%;
+    }
+}
+
+.post-info {
+    color: grey;
+    margin-top: 1rem;
+}
+
+.post-body, .post-likes {
+    line-height: 1.2;
+    margin: 1.5rem 6rem 0 6rem;
+    text-align: left;
+    white-space: pre-wrap;
+    .text {
+        margin: 1.5rem 0;
+        font-size: 1.2rem;
+    }
+}
+
+.post-comments {
+    margin: 1.5rem 2rem 0 2rem;
+    text-align: left;
+}
+
+.comments-title {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 1rem;
+}
+
+.post-likes {
+    i {
+        cursor: pointer;
+    }
+}
+
+
+.button-pagination {
+    a:active {
+        background-color: red;
+    }
+}

@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 60rem;
+    margin: 0 auto;
+};
+
+.message {
+    margin-top: 2rem;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 0 1rem;
+}
+
+.button-pagination{
+    .active {
+        color: red;
+    }
+    
+    button {
+        background: none;
+        margin-left: 0.4rem;
+        color: black;
+        border: none;
+        border-radius: 0;
+
+
+
+        &:hover {
+            background: rgb(236, 236, 236);
+        }
+
+    }
+
+}
+
+
+

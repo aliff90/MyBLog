@@ -1,0 +1,68 @@
+.form-container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+
+    .btn-submit {
+        // display: block;
+        margin: 0 auto;
+        width: 4rem;
+    }
+}
+
+.form-body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+
+    input, textarea {
+        outline: none;
+        width: 80%;
+    }
+    
+    input {
+        font-size: 1.4rem;
+        border: none;
+        height: 3rem;
+        margin-top: 1rem;
+    }
+
+    input[name="subHeader"] {
+        font-size: 1.2rem;
+    }
+
+    textarea {
+        font-size: 1.1rem;
+        margin-top: 2rem;
+        border: none;
+        white-space: pre-line;
+        min-height: 10rem;
+        height: auto;
+        overflow:hidden;
+    }
+
+    img {
+        width: 80%;
+    }
+}
+
+// button {
+//     border: none;
+//     cursor: pointer;
+//     border-radius: 0.5rem;
+//     background-color: rgb(0, 139, 139);
+//     color: white;
+//     font-weight: 700;
+//     padding: 0.7rem;
+
+//     &:hover {
+//         background-color: rgb(0, 104, 104);
+//     }
+// }
+
+
+
