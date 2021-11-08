@@ -1,5 +1,5 @@
 ## Summary
-This is a simple blog app. This project is my first MERN project after learning MERN course on Udemy.
+This is a simple blog app. This is my first MERN project after learning MERN course on Udemy.
 
 ## What does it do
 This blog allow users to write a simple blog post. They can also comment and like a blog post.
