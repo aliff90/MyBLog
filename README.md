@@ -14,4 +14,4 @@ Upon registering or logged in, post link will be available in the navigation bar
 This blog is made using ReactJS as a front-end framework. MongoDB Atlas is used for database. AWS S3 is used for file storage. SCSS is used to style the app.
 
 ## Links
-This is the link to the project https://myblog009.herokuapp.com/
+This is the link to the project https://myblog999.herokuapp.com
