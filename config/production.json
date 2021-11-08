@@ -1,8 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://aliff90:aliff90@myblog.q4cuk.mongodb.net/MyBlog",
-    "jwtSecret": "myblogsecret",
-    "AWS_BUCKET": "myblog-009",
-    "AWS_BUCKET_REGION": "ap-southeast-1",
-    "AWS_ACCESS_KEY": "AKIAZFXVCBT5JL2TKB4P",
-    "AWS_SECRET_KEY": "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"
-}
