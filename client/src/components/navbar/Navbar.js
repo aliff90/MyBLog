@@ -19,7 +19,7 @@ const Navbar = props => {
 
     const authLinks = (
         <div className="navbar">
-            <div className="bars" onClick={onOpen}>
+            <div className="bars" onClick={onOpen} >
                 <div className="bar"></div>
                 <div className="bar"></div>
                 <div className="bar"></div>
